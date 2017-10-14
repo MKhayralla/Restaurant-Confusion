@@ -79,6 +79,7 @@ body {
   align: center;
   padding: 50px 0px 0px 0px;
   z-index: 0;
+  background: florawhite ;
 }
 .tab-content {
   border-bottom: 1px solid #dddddd;
@@ -96,9 +97,3 @@ body {
   right: 0px;
 }
 .modal-content { color: #000; }
-.nav-stacked{
-  color: rgb(290, 190, 138);
-}
-body{
-  background: florawhite ;
-}
